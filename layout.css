@@ -1,0 +1,89 @@
+body{
+    background-color:silver;
+}
+.box1{
+    background-color: white;
+    margin-left: 250px;
+    border-radius: 8px;
+    width: 800px;
+    height: 70px
+}
+.menubox{
+    background-color: silver;
+    width: 760px;
+    height: 20px;
+    border-radius:8px ;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+p1{
+    padding-left: 15px;
+}
+p2{
+    padding-left: 10px;
+}
+.box2{
+    background-color: white;
+    width: 800px;
+    height: 100px;
+    border-radius:8px;
+    margin: 10px;
+    margin-left: 250px;   
+}
+p3{
+    padding-left: 15px;
+}
+.box3{
+    background-color: white;
+    width: 800px;
+    height: 350px;
+    border-radius:8px;
+    margin: 10px;
+    margin-left: 250px;   
+}
+.postsbox{
+    background-color: silver;
+    width: 760px;
+    height: 300px;
+    border-radius:8px ;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+p4{
+    padding-left: 15px;
+}
+p5{
+    padding-left: 10px;
+}
+.box4{
+    background-color: white;
+    margin: 20px;
+    width: 800px;
+    margin-left:1px;
+    height: 150px;
+    border-radius: 8px;
+}
+p6{
+    padding-left: 10px;
+}
+.box5{
+    background-color: white;
+    border-radius: 8px;
+    width: 800px;
+    height: 70px;
+}
+p7{
+    padding-left: 10px;
+}
+.box6{
+    background-color:white;
+    margin: 10px;
+    border-radius: 5px;
+    width: 800px;
+    height: 30px;
+    margin-left: 1px;
+}
+p8{
+    padding-left: 10px;
+}
